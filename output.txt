@@ -1,0 +1,6 @@
+{'first': 'Mae', 'last': 'Nard'}
+{'last': 'Nard', 'city': 'SAN ANTONIO ', 'first': 'Mae', 'petName': 'Pearl', 'zip': '78255 ', 'street': '123 COLORADO', 'state': 'TX ', 'title': 'Dr.'}
+{'JUST': 'LEFT', 'BULLET': 'o', 'RM': '80', 'LM': '5', 'FLOW': 'YES'}
+{'JUST': 'RIGHT', 'BULLET': 'o', 'RM': '80', 'LM': '5', 'FLOW': 'NO'}
+{'JUST': 'BULLET', 'BULLET': 'o', 'RM': '70', 'LM': '5', 'FLOW': 'YES'}
+
